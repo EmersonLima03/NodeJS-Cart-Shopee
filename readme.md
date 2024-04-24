@@ -20,7 +20,7 @@ Vamos criar a lógica por trás do carrinho de compras da shopee, aonde o carrin
 
 ## 📚 Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+É necessário possuir conhecimento prévio nas seguintes áreas:
 
 - [habilidades ou conhecimentos prévios necessários]
 
@@ -33,8 +33,6 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
   - Lógica de Programação | Intermediário
 
 ## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
 - Modularizar projetos com maior propriedade
 - Como organizar pensamento lógico e funcional
